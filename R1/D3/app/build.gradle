@@ -33,7 +33,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'd2.Networking'
+    mainClass = 'd3.InstanceInitializer'
 }
 
 tasks.named('test') {
